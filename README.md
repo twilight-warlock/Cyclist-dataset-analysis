@@ -1,4 +1,4 @@
-# Cyclist Data set: A Case Study
+# Cyclist Bike Share: A Case Study
 
 ## Project Overview
 
@@ -25,3 +25,6 @@ The Business Task is to analyze rider's usage patterns for marketing membership 
 
 The data used in the project comes is stored in AWS (Amazon Web services). I am using only the past 12 months of trip data, beginning in 2020-06 and ending in 2021-05.
 The data is collected directly from Cyclistic and has been made available by Motivate Internation Inc. under this [license](https://www.divvybikes.com/data-license-agreement). The data has been anonymized and no personally identifiable information has been included in the data. While this will prevent analysis which would examine specific personal traits of individual riders, such as individual history or areas of residence, there is still enough data to identify certain behaviours.
+
+## Process (Data Cleaning)
+
