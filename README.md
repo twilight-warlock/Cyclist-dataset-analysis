@@ -1,5 +1,5 @@
-# Cyclist Bike Share: A Case Study
-
+# Cyclistic Bike Share: A Case Study
+![Image](Images/clem-onojeghuo-bq-1seg1cPI-unsplash.jpg)
 ## Project Overview
 
 A fictional company, **Cyclistic**, Cyclistic launched a successful bike-share offering. The bikes can be unlocked from one station and
