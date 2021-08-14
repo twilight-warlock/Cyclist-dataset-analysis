@@ -15,6 +15,8 @@ It has been hypothesized that maximizing the number of annual members, versus ca
 
 I will be answering the first question using the 6 steps of data analysis taught in the Google Data Analytics course; ask, prepare, process, analyze, share, and act.
 
+Tools Used : **R programming language** for analysis
+
 ## Ask
 
 The director of marketing, is concerned with ensuring this growth by creating a marketing strategy designed to convert casual riders of Cyclistic into annual members. The marketing analytics team, which I am a member of, are concered with using our data to answer the three above questions, and use the answers to guide the marketing program.
@@ -28,3 +30,16 @@ The data is collected directly from Cyclistic and has been made available by Mot
 
 ## Process (Data Cleaning)
 
+I made the following changes:
+
+* Removed duplicate rows
+* Removed rows with null values concerning start and end stations
+* Excluded rows reporting electric bike testing
+* Excluded geographical coordinates
+* Ensured consistency in datatypes across variables
+* Created a column to report duration of each ride
+* Created a column to show the day of the week for each ride
+* Created columns for month and year of the ride
+* Excluded trips lasting less than 1 minute, or over 24 hours
+
+## Analyze
