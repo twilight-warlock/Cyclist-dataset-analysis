@@ -56,4 +56,10 @@ After cleeaning the data, I carried out analysis by exploring relationships betw
 - Minutes of a ride by Bike Type and Week
 - Average trip minutes on weekly basis
 
+Some of the graphs for the analysis:
 
+<img src="Images/graph1.png" alt="drawing" width="475"/> <img src="Images/graph2.png" alt="drawing" width="475"/>
+<img src="Images/graph3.png" alt="drawing" width="475"/> <img src="Images/graph4.png" alt="drawing" width="475"/>
+<div align="center">
+ <img src="Images/graph5.png" alt="drawing" width="800"/>
+</div>
