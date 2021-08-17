@@ -43,3 +43,17 @@ I made the following changes:
 * Excluded trips lasting less than 1 minute, or over 24 hours
 
 ## Analyze
+After cleeaning the data, I carried out analysis by exploring relationships between several variables
+- Created a summary for weekly usage of bikes
+- Different types of bike and it's usage
+- Weekly distribution of different types of bike used
+- Number of bikes used on hourly basis
+- Number of bikes used on each week day basis
+- Average duration of bike ride on weekly basis
+- Type of member usgae on weekly basis
+- Type of member usgae on monthly basis
+- Top 20 stations based on ride start station name
+- Minutes of a ride by Bike Type and Week
+- Average trip minutes on weekly basis
+
+
