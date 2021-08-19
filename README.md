@@ -63,3 +63,20 @@ Some of the graphs for the analysis:
 <div align="center">
  <img src="Images/graph5.png" alt="drawing" width="800"/>
 </div>
+
+## Share
+Link to [Tableau](wwww.google.com)
+
+## Act 
+### Key Findings
+1. From the week day analysis of data, we can see that the number of casual members shoot up in the weekends.
+2. From the weekly count of average rides, we can see that the average number of rides in summer(June, July, August, stretching to September end) are more than rest of the year.
+3. From the hourly analysis for number of rides, we can observe that the number of rides in the evening hours is the peakusage hours of our service.
+4. From the weekly analysis of types of bikes used, lately the use of classic bikes have shoot up compared to docked and electric bikes.
+<hr>
+
+### Recommendations
+1. Advertise how a membership can save money for those customers who take longer rides.
+2. Target casual customers who rent a bike for leisure on their weekends.
+3. Introduce referral system where existing members can refer their friends to buy membership in discounted prices preferrably on weekends.
+4. Create a large summer campaign when more people are likely to rent a bike.
